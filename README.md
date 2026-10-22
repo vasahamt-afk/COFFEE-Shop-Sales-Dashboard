@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard – Description
+# ☕ Coffee Shop Sales Dashboard 
 
 This interactive Coffee Shop Sales Dashboard provides a complete overview of business performance in a simple and user-friendly format. It allows users to analyze sales data easily by product, category, date, store location, and time using multiple filters.
 
@@ -90,11 +90,11 @@ Identifies peak business hours and busy days.
 
  Dashboard Advantages
 
-✔ Very interactive and dynamic
-✔ Multiple filters can be applied simultaneously
-✔ Easy to compare month-over-month performance
-✔ User-friendly visual design
-✔ Quick decision-making support for business owners
+ Very interactive and dynamic
+ Multiple filters can be applied simultaneously
+ Easy to compare month-over-month performance
+ User-friendly visual design
+ Quick decision-making support for business owners
 
  Conclusion
 
